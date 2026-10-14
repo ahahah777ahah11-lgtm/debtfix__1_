@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Debt Messenger</string>
+    <string name="debts_title">Debts Ledger</string>
+    <string name="messenger_title">Smart Messenger</string>
+    <string name="analytics_title">Analytics</string>
+    <string name="settings_title">Settings</string>
+</resources>
